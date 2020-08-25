@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dfd692bc-ba7f-4aa0-91d2-18bcc484773f" name="NewLand" url="http://192.168.1.109">
+        <fileTransfer rootFolder="/aa/TJU_TWT" host="192.168.1.109" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
